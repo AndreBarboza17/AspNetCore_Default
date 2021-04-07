@@ -1,0 +1,12 @@
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+D:\Programacao\Desenvolvedor.IO\Projetos\.NET CORE\AspNetCore_Default\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
