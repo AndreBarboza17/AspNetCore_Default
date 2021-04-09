@@ -59,7 +59,7 @@ PASSOS PARA CRIAÇÃO DO PROJETO - ESTRUTURAÇÃO
 
 13 -  Scaffolding das Controllers e Views - Parei aqui;
 
-
+teste teste
 
 
 
