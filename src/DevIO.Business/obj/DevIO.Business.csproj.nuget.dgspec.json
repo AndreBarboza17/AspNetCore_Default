@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {}
+    "D:\\Andre\\Projetos\\AspNetCore\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {}
   },
   "projects": {
-    "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "D:\\Andre\\Projetos\\AspNetCore\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "D:\\Andre\\Projetos\\AspNetCore\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
-        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\obj\\",
+        "projectPath": "D:\\Andre\\Projetos\\AspNetCore\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "packagesPath": "C:\\Users\\andre.carlos\\.nuget\\packages\\",
+        "outputPath": "D:\\Andre\\Projetos\\AspNetCore\\AspNetCore_Default\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre.carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
