@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj": {}
+    "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj": {}
   },
   "projects": {
-    "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj": {
+    "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj",
+        "projectUniqueName": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj",
         "projectName": "DevIO.App",
-        "projectPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj",
+        "projectPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.App\\obj\\",
+        "outputPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj": {
-                "projectPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj"
+              "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj": {
+                "projectPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj"
               }
             }
           }
@@ -49,29 +49,31 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.0, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             },
             "automapper.extensions.microsoft.dependencyinjection": {
               "target": "Package",
@@ -100,14 +102,14 @@
         }
       }
     },
-    "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -157,14 +159,14 @@
         }
       }
     },
-    "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Data\\obj\\",
+        "outputPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -184,8 +186,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXXqt5//T+RkJl/nGzk8deKqJBefsThMXXWPoclYmzF0KOK7xH+tk/DXTgC6EnmcsUw5IP+ADEZZ2wtSFTnfFA==",
+  "dgSpecHash": "NLSLs55VFpjI3pb/CiTM087/3vRmJ+8MiRxBmJgJj1QBWrABiNFY3wKxQczTHH+d/teYlOFYaebFhBv0pfg1+A==",
   "success": true,
-  "projectFilePath": "D:\\Programacao\\Desenvolvedor.IO\\Projetos\\.NET CORE\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

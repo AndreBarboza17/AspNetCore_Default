@@ -57,7 +57,12 @@ PASSOS PARA CRIAÇÃO DO PROJETO - ESTRUTURAÇÃO
 	- Criado classe de configuração do AutoMapper na Pasta App/AutoMapper/AutoMapperConfig:
 		Nesta classe criamos o mapeamento entre a Model e a ViewModel;
 
-13 -  Scaffolding das Controllers e Views - Parei aqui;
+13 -  Scaffolding das Controllers e Views (Fornecedores e Produtos)
+	- Criação de Controllers e Views;
+	- Utilização do mapper para maperar uma viewModel para um modelo e vice-versa;
+
+ 14 - Customização das Views
+	
 
 
 
