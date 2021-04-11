@@ -48,7 +48,9 @@ namespace DevIO.App
             services.AddScoped<IFornecedorRepository, FornecedorRepository>();
             services.AddScoped<IEnderecoRepository, EnderecoRepository>();
 
-            services.AddControllersWithViews();
+            services.AddControllersWithViews()
+                .AddRazorRuntimeCompilation();
+
             services.AddRazorPages();
 
         }
