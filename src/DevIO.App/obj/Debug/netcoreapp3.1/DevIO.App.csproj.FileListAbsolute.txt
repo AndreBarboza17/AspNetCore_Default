@@ -537,3 +537,5 @@ C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\De
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\libman.json
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs

@@ -17,6 +17,7 @@ namespace DevIO.Data.Context
 
         public MeuDbContext(DbContextOptions options) : base(options)
         {
+            // Importante para permitir realizar a edição dos models
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
             ChangeTracker.AutoDetectChangesEnabled = false;
         }
