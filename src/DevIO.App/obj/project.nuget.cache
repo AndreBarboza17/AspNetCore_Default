@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qoE07kTmhX+J3rJPBOlSiav7eOF5Wt5jEmWa+RESVIVyWoDYBoDgpXHyulcQm201961aZ4biShYQWvZ8reiHIA==",
+  "dgSpecHash": "RNPBtuD79WLuqFgxXg5Uf/9oSpWKyb+7cYY+eoOxOSgchmw0jrK2Y9uHZfMgwG3ld3n2PKlwc3GJldju+eYvdA==",
   "success": true,
   "projectFilePath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.0\\microsoft.aspnetcore.cryptography.internal.3.1.0.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.0\\microsoft.aspnetcore.cryptography.keyderivation.3.1.0.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.0.nupkg.sha512",

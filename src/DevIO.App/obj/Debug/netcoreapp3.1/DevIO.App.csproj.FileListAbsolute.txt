@@ -482,7 +482,6 @@ C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\De
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
-C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
@@ -492,9 +491,7 @@ C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\De
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.dll
-C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
-C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
@@ -519,7 +516,6 @@ C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\De
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Web.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
-C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
@@ -539,3 +535,20 @@ C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\De
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
 C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8xgJDhD/tMINeiXfltWhq9LX9zrrxiGRmy5TSWvHJfwmnwjKvt9qsxbx19Hbnfz3zxM0P8COQGWp9fmnMH8b8g==",
+  "dgSpecHash": "EKn6sJtrMPdcCpFeylB+3gZS6PAFKJmgkDgw05f7VJy4qVtX1bJKBr318OOEXCY7Oyjmx231Sam/4mujOz1p9g==",
   "success": true,
   "projectFilePath": "C:\\Programacao\\GitHub\\AspNetCore_Default\\AspNetCore_Default\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
