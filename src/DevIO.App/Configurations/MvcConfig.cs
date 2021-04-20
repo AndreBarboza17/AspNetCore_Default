@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace DevIO.App.Configurations
 {
@@ -21,7 +22,8 @@ namespace DevIO.App.Configurations
                 o.ModelBindingMessageProvider.SetValueMustBeANumberAccessor(x => "O campo deve ser numérico.");
                 o.ModelBindingMessageProvider.SetValueMustNotBeNullAccessor(x => "Este campo precisa ser preenchido.");
 
-                // o.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+                // para proteger a aplicação de ataques 
+                o.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
 
             }).AddRazorRuntimeCompilation();
 
