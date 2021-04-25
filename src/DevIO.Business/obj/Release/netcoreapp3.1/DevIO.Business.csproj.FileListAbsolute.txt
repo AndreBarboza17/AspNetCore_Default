@@ -1,0 +1,9 @@
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.deps.json
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.pdb
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Programacao\GitHub\AspNetCore_Default\AspNetCore_Default\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.pdb
